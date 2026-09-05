@@ -39,3 +39,5 @@ Resolution:
 - Code mostly created by myself with ai assistance.
 - Sprites created by myself and sourced from itch.io by the following artists;
     - Hotel tilesets: cute SCKR https://comshadow.itch.io
+    - Background: craftpix https://free-game-assets.itch.io
+    - Sprites: detreatus https://detreatus.itch.io

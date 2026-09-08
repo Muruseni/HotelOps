@@ -1,3 +1,19 @@
+Created for TT00BI74-3008 DevOps
+
+====== Course Info ======
+Required Documents and Steps
+
+Define
+Software Specification Report
+
+Develop
+
+Maintain
+
+
+
+====== Project Specifications  & Details ======
+
 **------ File Naming Conventions ------**
 
 Folders: lowercase   

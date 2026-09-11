@@ -1,6 +1,6 @@
 ====== Project Info ======
 
-
+*Remember to move to the active dev branch when needed
 
 Created for TT00BI74-3008 DevOps
 

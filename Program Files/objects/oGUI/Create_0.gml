@@ -1,0 +1,2 @@
+MenuOpen = false;
+PauseOpen = false;

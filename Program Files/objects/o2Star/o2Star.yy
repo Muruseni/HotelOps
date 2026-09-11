@@ -1,15 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"Object3",
-  "eventList":[],
+  "%Name":"o2Star",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object3",
+  "name":"o2Star",
   "overriddenProperties":[],
   "parent":{
-    "name":"charecters",
-    "path":"folders/objects/charecters.yy",
+    "name":"rooms",
+    "path":"folders/objects/rooms.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oRoom_Parent",
+    "path":"objects/oRoom_Parent/oRoom_Parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -28,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"MiniNobleWoman",
-    "path":"sprites/MiniNobleWoman/MiniNobleWoman.yy",
+    "name":"sTransparentWarm",
+    "path":"sprites/sTransparentWarm/sTransparentWarm.yy",
   },
   "spriteMaskId":null,
   "visible":true,

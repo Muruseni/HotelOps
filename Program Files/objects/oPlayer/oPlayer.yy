@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
   "%Name":"oPlayer",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"oPlayer",
   "overriddenProperties":[],
   "parent":{
-    "name":"objects",
-    "path":"folders/objects.yy",
+    "name":"charecters",
+    "path":"folders/objects/charecters.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"MiniNobleWoman",
+    "path":"sprites/MiniNobleWoman/MiniNobleWoman.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

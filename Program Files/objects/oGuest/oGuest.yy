@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"oRoom_Parent",
+  "%Name":"oGuest",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oRoom_Parent",
+  "name":"oGuest",
   "overriddenProperties":[],
   "parent":{
-    "name":"rooms",
-    "path":"folders/objects/rooms.yy",
+    "name":"charecters",
+    "path":"folders/objects/charecters.yy",
   },
   "parentObjectId":null,
   "persistent":false,

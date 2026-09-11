@@ -1,0 +1,1 @@
+//allows you to select a guest on click

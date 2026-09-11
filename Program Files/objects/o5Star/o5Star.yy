@@ -1,18 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"oRoom_Parent",
+  "%Name":"o5Star",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oRoom_Parent",
+  "name":"o5Star",
   "overriddenProperties":[],
   "parent":{
     "name":"rooms",
     "path":"folders/objects/rooms.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oRoom_Parent",
+    "path":"objects/oRoom_Parent/oRoom_Parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,7 +32,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sTransparentWarm",
+    "path":"sprites/sTransparentWarm/sTransparentWarm.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
